@@ -1,0 +1,6 @@
+TCK  -  PA0
+TDO  -  PA6
+TDI  -  PA4
+TMS  -  PA1
+LED  -  PA5
+USB  -  PB6
